@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marlowe-newspapers.vercel.app/sitemap.xml
