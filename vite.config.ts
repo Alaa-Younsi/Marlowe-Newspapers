@@ -18,7 +18,7 @@ export default defineConfig({
     sourcemap: false,
     assetsInlineLimit: 4096,
     cssCodeSplit: true,
-    minify: 'esbuild',
+    minify: true,
   },
   server: {
     headers: {
